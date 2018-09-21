@@ -41,7 +41,9 @@ Issues:
 need to hide nav items for unidentified users and users that should not access parts of the site eg. register user for admin only 
 (requires scripting with ajax looking at $_session)
 
-Check week 9 and connect for ajax code examples in use.
+code for using sessions div message not displaying, unable to fix
+
+Check week 9 and connect for ajax code examples in use.??? no example found
 
 put bootStrap on pages for a better interface, but worry about the pratical first
 
